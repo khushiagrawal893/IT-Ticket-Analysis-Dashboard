@@ -35,8 +35,7 @@ It includes key IT service desk data such as:
 - **🔍 Interactive Filters** – Dynamic filtering by agent, category, priority, and date.
 
 ## 6. Screenshots / Demos
-Images:
 Dashboard Overview: ![Dashboard Overview](https://github.com/khushiagrawal893/IT-Ticket-Analysis-Dashboard/blob/main/OverView.png)
-Agent Performance: ![Agent Performance](images/agent-performance.png)
+Agent Performance: ![Agent Performance](https://github.com/khushiagrawal893/IT-Ticket-Analysis-Dashboard/blob/main/Agent%20Performance.png)
 Ticket Trends: ![Ticket Trends](images/ticket-trend.png)
 
