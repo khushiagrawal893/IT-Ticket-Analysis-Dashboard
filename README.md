@@ -37,5 +37,5 @@ It includes key IT service desk data such as:
 ## 6. Screenshots / Demos
 Dashboard Overview: ![Dashboard Overview](https://github.com/khushiagrawal893/IT-Ticket-Analysis-Dashboard/blob/main/OverView.png)
 Agent Performance: ![Agent Performance](https://github.com/khushiagrawal893/IT-Ticket-Analysis-Dashboard/blob/main/Agent%20Performance.png)
-Ticket Trends: ![Ticket Trends](images/ticket-trend.png)
+Ticket Trends: ![Ticket Trends](https://github.com/khushiagrawal893/IT-Ticket-Analysis-Dashboard/blob/main/Ticket%20Trends.png)
 
